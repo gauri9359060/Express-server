@@ -5,6 +5,10 @@ const PORT = 8000;
 
 let app = express();
 
+app.get("/",(request,response)=>{
+    response.sendFile(`${__dirname}/index.html`)
+})
+
 app.get("/books",(request,response)=>{
     response.json(books)
 })
