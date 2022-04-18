@@ -1,0 +1,26 @@
+ [
+        {
+            "id":1,
+            "title" : "Wings of Fire",
+            "author":"Dr. A.P.J. Abdul Kalam",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, harum."
+        },
+        {
+            "id":2,
+            "title" : "Making of New India",
+            "author":"Dr. Bibek Debroy",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, harum."
+        },
+        {
+            "id":3,
+            "title" : "Whispers of Time",
+            "author":"Dr. Krishna Saksena",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, harum."
+        },
+        {
+            "id":4,
+            "title" : "A Passage to India",
+            "author":"E.M. Foster",
+            "summary": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, harum."
+        }
+    ]
